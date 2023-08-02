@@ -1,0 +1,165 @@
+body {
+    text-align: center;
+   font-family: 'Pacifico', cursive;
+
+}
+
+img {
+    width: 350px;
+  border-radius: 15%;
+
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+button {
+    height: 40px;
+}
+
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+.bottons1{
+  display:none;
+}
+
+
+.door{
+  display:none;
+}
+
+.serpiente{
+  display:none;
+}
+
+.answer{
+  display:none;
+}
+.YWTF{
+  display:none;
+}
+
+.NF{
+  display:none;
+}
+
+.you-won-the-fight{
+  display:none;
+}
+.YFTD{
+  display:none;
+}
+.right-door{
+  display:none;
+}
+.YFAC{
+  display: none;
+}
+.option-two-end{
+  display: none;
+}
+
+.ALF{
+  display:none;
+}
+
+.YFTD1{
+  display:none;
+}
+
+.right-door-ALF{
+  display:none;
+}
+.YFAC3{
+  display:none;
+}
+
+
+
+}
+.YFAC3{
+  display:none;
+}
+
+.stress{
+  display:none;
+}
+
+.endp{
+  display:none;
+}
+
+.possibly-end{
+  display:none;
+}
+
+.murcielago9{
+  display:none;
+}
+.DWNB{
+  display:none;
+}
+
+.YFAC8{
+  display:none;
+}
+
+.Leave{
+  display:none;
+}
+
+.Leave9{
+  display:none;
+}
+
+.against-who{
+  display:none;
+}
+
+.against-who9{
+  display:none;
+}
+
+.RUN90{
+  display:none;
+}
+
+.WH{
+  display:none;
+}
+
+.Fbear{
+  display:none;
+}
+.Fbear9{
+  display:none;
+}
+
+.dragon90{
+  display:none;
+}
+
+.Dragon{
+  display:none;
+}
+.RUN50{
+  display:none;
+}
